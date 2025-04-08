@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
  
-#Read/load file
+#Load file
 df = pd.read_csv(r"C:\Users\mahen\Downloads\Evolution_DataSet_python.csv")
 
 #Reading first 10 rows
